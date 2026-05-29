@@ -1,0 +1,1 @@
+class=org.apache.camel.component.echo.EchoComponent
